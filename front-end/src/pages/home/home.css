@@ -1,0 +1,74 @@
+#page {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+form {
+    border: 1px solid gray;
+    border-radius: 1px;
+}
+
+input {
+    width: 260px;
+    height: 36px;
+}
+
+#login {
+    width: 264px;
+    height: 32px;
+    background-color: aqua;
+    margin: 40px 0;
+}
+
+.border {
+    border: 1px solid lightgray;
+    border-radius: 1px;
+    width: 264px;
+    margin: 0 auto;
+}
+
+#logo {
+    font-family: 'Grand Hotel', cursive;
+    justify-content: center;
+    font-size: 50px;
+}
+
+#images {
+
+}
+
+.link-icons {
+    height: 40px;
+}
+
+#right-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 350px;
+    gap: 20px;
+}
+
+#facebook {
+    height: 20px;
+}
+
+
+#left-container {
+    background-image: url(https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones.png?__makehaste_cache_breaker=HOgRclNOosk);
+    width: 465px;
+    height:635px;
+}
+
+
+.screenshots {
+    margin-left: 155px;
+    margin-top: 25px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}

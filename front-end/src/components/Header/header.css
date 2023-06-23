@@ -1,0 +1,27 @@
+#text-logo {
+    color: red;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 100px;
+}
+
+#header {
+    display: flex; 
+    justify-content: space-between;
+    background-color: aquamarine;
+    width: 100vw;
+
+}
+
+#logo{
+    display: flex;
+}
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+#header-img {
+    width: 100px;
+}
